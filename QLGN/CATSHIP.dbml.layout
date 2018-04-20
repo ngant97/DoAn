@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.5, 15.375" name="CATSHIP">
+  <DataContextMoniker Name="/CATSHIPDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e6309b00-030c-4180-9311-fbb5d0401c7d" absoluteBounds="0.75, 0.75, 2, 1.0016910807291666">
+      <DataClassMoniker Name="/CATSHIPDataContext/CAIDAT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f599f62e-73bc-4d4c-bd5b-65046560b0b5" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.44169108072916669" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="86a3975b-90d2-438d-b922-92c988620bfe" absoluteBounds="0.75, 5.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/CATSHIPDataContext/THONGKE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d021d709-4fce-4380-a74d-42b6ba9e3ff5" absoluteBounds="0.765, 6.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="10118030-e1cf-4899-9688-f52ac0370ae7" absoluteBounds="0.75, 7.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/CATSHIPDataContext/DEM" />
+      <nestedChildShapes>
+        <elementListCompartment Id="123115c3-88d4-4945-ad01-7e726455114a" absoluteBounds="0.765, 8.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e9efada6-276f-45fc-bc9b-ababacc7b98d" absoluteBounds="9, 2.375, 2, 2.347801106770834">
+      <DataClassMoniker Name="/CATSHIPDataContext/DONHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6d4d9db0-780b-42e9-9278-76538fc059c5" absoluteBounds="9.015, 2.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6e57c01c-5f78-4fc0-947c-541a12ffa2b7" absoluteBounds="6.25, 13, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/CATSHIPDataContext/HANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="de0459b7-b8e8-4ae9-bcb5-7b8279b7085e" absoluteBounds="6.265, 13.46, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b2c06bf3-2945-4cb6-96db-855651481c41" absoluteBounds="6.25, 5.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/CATSHIPDataContext/NGUOIGUI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1d9b01d7-d7b9-4b8c-8f80-14376a3b7c0a" absoluteBounds="6.265, 6.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="250d476f-c5b8-4ad7-9af4-547b4345196f" absoluteBounds="6.25, 8.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/CATSHIPDataContext/NGUOINHAN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e5aa9bd9-0253-48f4-9c14-1d568d766344" absoluteBounds="6.265, 8.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e07db831-3900-4384-aa2f-69ecad53658a" absoluteBounds="6.25, 10.5, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/CATSHIPDataContext/NHANVIEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="57b86618-a1c7-4890-bc78-98be46fceabd" absoluteBounds="6.265, 10.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="78c2e06e-236e-4d61-b1ea-68fd57d2b6cf" absoluteBounds="6.25, 2.5, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/CATSHIPDataContext/PHIGH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0449264c-25d7-4f8c-a1fe-ff7808debeae" absoluteBounds="6.265, 2.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bd112985-8953-4770-af0a-efb4fd3d4045" absoluteBounds="0.75, 2.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/CATSHIPDataContext/PHUONGTIEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="334d337c-1ccb-410a-89ea-8a2259b6f2b0" absoluteBounds="0.765, 3.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8fea66e3-e856-49be-afcb-ae3fdb50c69c" absoluteBounds="3.5, 2.625, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/CATSHIPDataContext/SHIPPER" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1a7b8699-f0fc-4fd4-a3ac-76118b5151d7" absoluteBounds="3.515, 3.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6cf68bf7-85e5-4c29-8dbb-35cbbb0d29a5" absoluteBounds="3.5, 10.625, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/CATSHIPDataContext/TAIKHOAN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cca53aa5-2a4e-4e15-bd57-c974a1d484cc" absoluteBounds="3.515, 11.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="756d5456-1fb7-4f9d-99ec-619bcab96a6b" absoluteBounds="8.75, 5.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/CATSHIPDataContext/THONGBAO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b8e604ed-643d-4259-9204-0636c64336bd" absoluteBounds="8.765, 6.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.25 : 14.0777498372396); (10.90625 : 14.0777498372396); (10.90625 : 4.72280110677083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CATSHIPDataContext/HANG/HANG_DONHANG" />
+      <nodes>
+        <classShapeMoniker Id="6e57c01c-5f78-4fc0-947c-541a12ffa2b7" />
+        <classShapeMoniker Id="e9efada6-276f-45fc-bc9b-ababacc7b98d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 7.2300439453125); (10.8749975 : 7.2300439453125); (10.8749975 : 4.72280110677083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CATSHIPDataContext/NGUOIGUI/NGUOIGUI_DONHANG" />
+      <nodes>
+        <classShapeMoniker Id="b2c06bf3-2945-4cb6-96db-855651481c41" />
+        <classShapeMoniker Id="e9efada6-276f-45fc-bc9b-ababacc7b98d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 8.91429768880208); (10.7604154166667 : 8.91429768880208 : JumpStart); (10.9270820833333 : 8.91429768880208 : JumpEnd); (10.9375025 : 8.91429768880208); (10.9375025 : 4.72280110677083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CATSHIPDataContext/NGUOINHAN/NGUOINHAN_DONHANG" />
+      <nodes>
+        <classShapeMoniker Id="250d476f-c5b8-4ad7-9af4-547b4345196f" />
+        <classShapeMoniker Id="e9efada6-276f-45fc-bc9b-ababacc7b98d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 11.3854484049479); (10.84374875 : 11.3854484049479); (10.84374875 : 4.72280110677083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CATSHIPDataContext/NHANVIEN/NHANVIEN_DONHANG" />
+      <nodes>
+        <classShapeMoniker Id="e07db831-3900-4384-aa2f-69ecad53658a" />
+        <classShapeMoniker Id="e9efada6-276f-45fc-bc9b-ababacc7b98d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 3.48159912109375); (9 : 3.48159912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CATSHIPDataContext/PHIGH/PHIGH_DONHANG" />
+      <nodes>
+        <classShapeMoniker Id="78c2e06e-236e-4d61-b1ea-68fd57d2b6cf" />
+        <classShapeMoniker Id="e9efada6-276f-45fc-bc9b-ababacc7b98d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.1362939453125); (3.125 : 4.5112939453125); (3.125 : 4.8381982421875); (5.875 : 4.8381982421875); (6.25 : 4.4631982421875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/CATSHIPDataContext/PHUONGTIEN/PHUONGTIEN_PHIGH" />
+      <nodes>
+        <classShapeMoniker Id="bd112985-8953-4770-af0a-efb4fd3d4045" />
+        <classShapeMoniker Id="78c2e06e-236e-4d61-b1ea-68fd57d2b6cf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 3.51044840494792); (6.25 : 3.51044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CATSHIPDataContext/SHIPPER/SHIPPER_PHIGH" />
+      <nodes>
+        <classShapeMoniker Id="8fea66e3-e856-49be-afcb-ae3fdb50c69c" />
+        <classShapeMoniker Id="78c2e06e-236e-4d61-b1ea-68fd57d2b6cf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 3.41189447265625); (3.5 : 3.41189447265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CATSHIPDataContext/PHUONGTIEN/PHUONGTIEN_SHIPPER" />
+      <nodes>
+        <classShapeMoniker Id="bd112985-8953-4770-af0a-efb4fd3d4045" />
+        <classShapeMoniker Id="8fea66e3-e856-49be-afcb-ae3fdb50c69c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 11.3181469726562); (6.25 : 11.3181469726562)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CATSHIPDataContext/TAIKHOAN/TAIKHOAN_NHANVIEN" />
+      <nodes>
+        <classShapeMoniker Id="6cf68bf7-85e5-4c29-8dbb-35cbbb0d29a5" />
+        <classShapeMoniker Id="e07db831-3900-4384-aa2f-69ecad53658a" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
